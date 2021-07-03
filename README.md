@@ -18,6 +18,8 @@ Say hi to Jared
 with Novusk
 If you're going to contribute, please read ``CODESTYLE.md``. It shows how you should write your code.
 
+``examples/`` has examples of things you can do with Novusk
+
 ---
 
 #### Novusk v2 - v2.1.3:
