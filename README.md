@@ -14,7 +14,7 @@ Also, this is Jarad:
 
 ```
 
-Say 'hi' to Jarad
+Say hi to Jarad
 
 
 ``examples/`` has examples of things you can do with Novusk
