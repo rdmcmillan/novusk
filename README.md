@@ -12,11 +12,11 @@ Also, this is Jared:
 Say hi to Jared
 
 
-``examples/`` has examples of things you can do with Novusk
  
 
 [``examples/``](https://github.com/NathanMcMillan54/novusk/tree/examples/examples) has examples of things you can do 
 with Novusk
+If you're going to contribute, please read ``CODESTYLE.md``. It shows how you should write your code.
 
 ---
 
